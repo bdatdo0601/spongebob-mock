@@ -1,0 +1,9 @@
+{
+  "name": "spongebob-mock-cloud-function",
+  "version": "1.0.0",
+  "description": "return spongebob mocking images",
+  "main": "index.js",
+  "author": "Dat Doo",
+  "license": "MIT",
+  "private": false
+}
