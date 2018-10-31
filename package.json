@@ -5,5 +5,9 @@
   "main": "index.js",
   "author": "Dat Doo",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "image-downloader": "^3.4.1",
+    "jimp": "^0.5.6"
+  }
 }
